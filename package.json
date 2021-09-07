@@ -1,0 +1,21 @@
+{
+  "name": "coool-library",
+  "description": "Data context service for Angular applications to easily create data services and link them to entities.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/louis-lintingyou/test-cooool-library.git",
+  "author": "Louis-lintingyou",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis-lintingyou/test-cooool-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/louis-lintingyou/test-cooool-library/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/compiler": "^12.1.0",
+    "@angular/core": "^12.1.0",
+    "lodash": "^4.17.11"
+  }
+}
